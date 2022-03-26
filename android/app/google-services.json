@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223949790634",
+    "project_id": "car-rent-b64c9",
+    "storage_bucket": "car-rent-b64c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223949790634:android:63351d777157a78dabdfd3",
+        "android_client_info": {
+          "package_name": "com.example.hackathone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223949790634-fc6hsh6a6ns8rf3ru17hiplh217i59rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLEGZEenY2XwDqqJrV0Sa76sJ4YULGwi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223949790634-fc6hsh6a6ns8rf3ru17hiplh217i59rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
